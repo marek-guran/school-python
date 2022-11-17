@@ -1,0 +1,6 @@
+Tabulka             Body   V   R   P
+========================================
+Zilina                21  10   1   1
+Michalovce            14   6   2  10
+Ruzomberok            15   5   5   1
+Slovan                 4   1   2  10

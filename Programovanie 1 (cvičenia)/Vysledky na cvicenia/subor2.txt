@@ -1,0 +1,4 @@
+Programovanie
+a algoritmizacia
+v jazyku
+Python

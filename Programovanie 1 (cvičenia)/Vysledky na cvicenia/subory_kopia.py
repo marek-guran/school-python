@@ -1,0 +1,10 @@
+#Program na kopirovanie textoveho suboru
+nazov=input('Zadajte cestu a meno suboru na citanie ')
+nazov2=input('Zadajte cestu a meno suboru na zapis ')
+f=open(nazov,'r')
+riadok=f.read()
+f.close()
+f=open(nazov2,'w')
+f.write(riadok)
+print('Kopirovanie sa skoncilo!')
+f.close()

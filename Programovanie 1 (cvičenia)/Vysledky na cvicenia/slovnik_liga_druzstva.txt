@@ -1,0 +1,7 @@
+Tabulka             Body   V   R   P
+========================================
+MFK Ruzomberok        40  15  10   3
+MSK Zilina            40  15  10   3
+FC Nitra              39  13  13  13
+Slovan Bratislava     32  10  12   5
+Tatran Presov         10   3   4  21
